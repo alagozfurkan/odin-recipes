@@ -1,0 +1,13 @@
+.list {
+    color: black;
+    background-color: rgb(201, 66, 66);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+li {
+    color: black;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
